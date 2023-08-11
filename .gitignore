@@ -1,0 +1,50 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+env_bak/
+env*.txt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model checkpoints and saved models
+model_checkpoints/
+saved_models/
+
+# Ignore large data files
+*.csv
+*.tsv
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+
+# Ignore any directories named "data"
+data/
+
+# Ignore images, videos, and other media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.ico
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Ignore large text files
+*.txt
