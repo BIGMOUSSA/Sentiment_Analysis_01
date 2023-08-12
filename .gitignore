@@ -18,7 +18,7 @@ model_checkpoints/
 saved_models/
 
 # Ignore large data files
-*.csv
+#*.csv
 *.tsv
 *.h5
 *.pkl
@@ -32,7 +32,7 @@ logs/
 *.swp
 
 # Ignore any directories named "data"
-data/
+#data/
 
 # Ignore images, videos, and other media
 *.jpg
